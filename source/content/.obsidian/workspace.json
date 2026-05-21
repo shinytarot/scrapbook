@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "My thoughts on astrology, 2026-05-21.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "My thoughts on astrology, 2026-05-21"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "My thoughts on astrology, 2026-05-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for My thoughts on astrology, 2026-05-21"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "My thoughts on astrology, 2026-05-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from My thoughts on astrology, 2026-05-21"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "My thoughts on astrology, 2026-05-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of My thoughts on astrology, 2026-05-21"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
-    "Folder 1/Some note.md",
     "index.md",
+    "My thoughts on astrology, 2026-05-21.md",
+    "Folder 1/Some note.md",
     "Folder 1/index.md",
     "Folder 1"
   ]
